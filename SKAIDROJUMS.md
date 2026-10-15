@@ -63,6 +63,8 @@ Export-Csv - Saglabā iegūto tabulu CSV failā.
 
 Import-Csv nolasa šo failu un izmanto .Count, lai aprēķinātu precīzu rindu skaitu.
 
+GPU drive - "NVIDIA GeForce RTX 5070 Ti","NVIDIA","32.0.16.1742"
+
 7)
 
 $warningLimitGB = 20 iestata brīdinājuma slieksni uz 20 gigabaitiem.
