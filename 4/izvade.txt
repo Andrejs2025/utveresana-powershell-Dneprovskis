@@ -1,0 +1,14 @@
+Atrasti servisi (10):
+
+Name                                      DisplayName
+----                                      -----------
+asus                                      Служба ASUS Update (asus)
+AsusROGLSLService                         AsusROGLSLService Download ROGLSLoader
+AsusUpdateCheck                           AsusUpdateCheck
+edgeupdate                                Microsoft Edge Update Service (edgeupdate)
+GoogleUpdaterInternalService157.0.8089.0  Внутренний сервис Google Updater (GoogleUpdaterInternalService157.0.8089.0)
+GoogleUpdaterService157.0.8089.0          Сервис Google Updater (GoogleUpdaterService157.0.8089.0)
+Intel(R) Platform License Manager Service Intel(R) Platform License Manager Service
+MapsBroker                                Downloaded Maps Manager
+sppsvc                                    Software Protection
+StiSvc                                    Windows Image Acquisition (WIA)
