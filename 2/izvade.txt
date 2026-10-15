@@ -1,0 +1,12 @@
+Name        Id Atmiņa (MB)
+----        -- -----------
+chrome    1332
+chrome   15020
+Acrobat  13856
+chrome   24408
+MsMpEng   5436
+chrome   22928
+chrome   20892
+explorer  7956
+chrome   22124
+Discord  17924
