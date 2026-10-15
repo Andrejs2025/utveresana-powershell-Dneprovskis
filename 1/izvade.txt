@@ -1,0 +1,5 @@
+Datora nosaukums: ANDREY
+Operētājsistēma: Майкрософт Windows 11 Домашняя (Būvējums: 26300)
+PowerShell versija: 5.1.26100.9711
+Pašreizējais datums un laiks: 10/15/2026 15:41:51
+Aktīvo procesu skaits: 312
