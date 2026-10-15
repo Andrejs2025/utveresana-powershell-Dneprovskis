@@ -1,6 +1,10 @@
 1)
-$env:COMPUTERNAME - šī komanda parāda datora nosaukumu.
-Get-CimInstance -ClassName Win32_OperatingSystem - komanda, kas vaicā operētājsistēmas Windows informāciju.
-$PSVersionTable.PSVersion - komanda, ko var izmantot, lai noteiktu čaulas versiju.
-Get-Process - komanda, kas parāda visus pašlaik darbojošos procesus.
-Count - beigās tā aprēķina, cik procesu ir.
+- $env:COMPUTERNAMEšī komanda parāda datora nosaukumu.
+
+- Get-CimInstance -ClassName Win32_OperatingSystemkomanda, kas vaicā
+operētājsistēmas Windows informāciju.
+- $PSVersionTable.PSVersionkomanda, ko var izmantot, lai noteiktu
+čaulas versiju.
+- Get-Processkomanda, kas parāda visus pašlaik darbojošos procesus.
+
+- Count beigās tā aprēķina, cik procesu ir.
