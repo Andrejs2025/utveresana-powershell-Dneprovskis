@@ -1,0 +1,3 @@
+Strādājoši servisi: 147
+Apturēti servisi: 179
+Kopējā summa: 326
