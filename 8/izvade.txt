@@ -1,0 +1,2 @@
+1. veida izpildes laiks (Get-Service): 19.412 ms
+2. veida izpildes laiks (Get-CimInstance): 496.4002 ms
