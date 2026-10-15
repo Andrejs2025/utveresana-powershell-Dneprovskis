@@ -1,0 +1,4 @@
+1. Procesu skaits tagad: 332
+3. Strādājoši servisi: 147 | Apturēti servisi: 179
+5. Kļūdu skaits žurnālā: 38
+7. Brīvā vieta uz C: diska: 457.68 GB
