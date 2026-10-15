@@ -1,0 +1,2 @@
+Kļūdu skaits pēdējo 48 stundu laikā: 38
+Visbiežākais avots: Service Control Manager (skaits: 26)
